@@ -16,3 +16,7 @@ odd composites alongside primes).
 
 <u><h1> 4. How Can Others Contribute </h1></u>
 Others may fork this repo , make changes in the code to make it faster ( I made a slow version of this...)
+
+Usage: Type ```CmdPrime.py 100 ```or some other number after placing the source code in the path given in cmd.exe (not administrator version), or use pyinstaller  (``` pip install pyinstaller```) , convert the source code to executable , place it in some folder and then add its path to the PATH environment variable so that cmd.exe can recognize it . Then tpye ```CmdPrime 100``` and see what happens.
+
+Thanks !
