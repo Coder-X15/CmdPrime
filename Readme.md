@@ -14,7 +14,7 @@ I have heard that prime numbers greater than 3 are of the form 6n - 1 or 6n + 1.
 from a set consisting the sample, the filtration function I made (called quadratic sieving function) removes all possible occurences of odd composites (since the sample only contains
 odd composites alongside primes).
 
-<u><h1> 4. How Can Others Contribute </h1></u>
+<u><h1> 4. How Can Others Contribute ?</h1></u>
 Others may fork this repo , make changes in the code to make it faster ( I made a slow version of this...)
 
 Usage: Type ```CmdPrime.py 100 ```or some other number after placing the source code in the path given in cmd.exe (not administrator version), or use pyinstaller  (``` pip install pyinstaller```) , convert the source code to executable , place it in some folder and then add its path to the PATH environment variable so that cmd.exe can recognize it . Then type ```CmdPrime.exe 100``` and see what happens.
