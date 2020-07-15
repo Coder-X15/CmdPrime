@@ -2,7 +2,7 @@ Yeah, I'm back with a new prime sieve (although many discussion groups say this 
 But this is an interesting programming exercise , according to one of those research helpers in Wikipedia - Jasper Deng; he's a really nice person and a good mentor ! Therefore, I decided to create this 
 command-line tool for Windows (those willing to make distributions for Mac OS, Linux, etc. may fork this repo and get the code edited).
 ________
-<u><h1>1. What Is This ?</h1></u>
+<u><h1>1. What's This ?</h1></u>
 A simple command-line tool to generate prime numbers and print it on your cmd.exe screen.
 
 <u><h1>2. Why Did You Make This?</h1></u>
